@@ -1,0 +1,7 @@
+JAX-WS: Java API XML Web Service.
+Es una libreria que permite desarrollar web service utilizando el lenguaje Java. Se vale de anotaciones que permiten que 
+el desarrollo sea sencillo.
+
+Tareas:
+Crear un Web Service SOAP con JAX-WS.
+Crear un cliente para consumir el servicio.
